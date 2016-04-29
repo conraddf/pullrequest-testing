@@ -4,5 +4,6 @@ adding feature 30
 adding feature 40
 adding feature 50
 adding feature 70
+adding feature 60
 ore changes for big feature3
 
