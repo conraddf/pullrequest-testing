@@ -1,5 +1,6 @@
 somenewfile
 
 adding feature 30
+adding feature 40
 more changes for big feature3
 
