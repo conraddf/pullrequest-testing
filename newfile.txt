@@ -3,6 +3,8 @@ somenewfile
 adding feature 30
 adding feature 40
 adding feature 50
+adding feature 70
+ore changes for big feature3
 adding feature 60
 more changes for big feature3
 
